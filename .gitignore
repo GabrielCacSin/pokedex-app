@@ -1,0 +1,12 @@
+/target
+/.idea
+/.vscode
+*.iml
+.DS_Store
+
+# logs
+*.log
+
+# env / secrets
+.env
+application-local.properties
